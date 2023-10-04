@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/Crypto-tracker/static/css/main.95b06333.css",
+    "main.js": "/github.io/Crypto-tracker/static/js/main.11b6db02.js",
+    "static/js/787.9644b5a4.chunk.js": "/github.io/Crypto-tracker/static/js/787.9644b5a4.chunk.js",
+    "index.html": "/github.io/Crypto-tracker/index.html",
+    "main.95b06333.css.map": "/github.io/Crypto-tracker/static/css/main.95b06333.css.map",
+    "main.11b6db02.js.map": "/github.io/Crypto-tracker/static/js/main.11b6db02.js.map",
+    "787.9644b5a4.chunk.js.map": "/github.io/Crypto-tracker/static/js/787.9644b5a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95b06333.css",
+    "static/js/main.11b6db02.js"
+  ]
+}
